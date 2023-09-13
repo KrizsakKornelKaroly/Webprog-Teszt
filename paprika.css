@@ -34,7 +34,7 @@ li{
     background-color: whitesmoke;
     padding-bottom: 8px;
     padding-left: 10px;
-    list-style-image: url(./chili-pepper-icon.gif);
+    list-style-image: url("./chili-pepper-icon.gif");
 }
 .baloszlop{
     width: 25%;
